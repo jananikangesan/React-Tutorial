@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "my new website",
+      "body": "aaaaaaaabbb",
+      "author": "mario",
+      "id": "11"
+    },
+    {
+      "title": "welcome party",
+      "body": "bbbbbbbccc",
+      "author": "yosi",
+      "id": "22"
+    },
+    {
+      "id": "b44a",
+      "title": "computer",
+      "body": "sssssssssssssssss",
+      "author": "yoshi"
+    },
+    {
+      "id": "24e1",
+      "title": "science",
+      "body": "cccccccccccccccc",
+      "author": "mario"
+    },
+    {
+      "id": "e0e5",
+      "title": "cbc",
+      "body": "bankkkkkkkkkkkkkkkkkk",
+      "author": "mario"
+    }
+  ]
+}
